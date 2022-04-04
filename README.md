@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @irwp
 - 🌱 I’m starting to contribute to open source projects! 
+- 🔧 I like fixing things. 
 
 <!---- 👀 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
